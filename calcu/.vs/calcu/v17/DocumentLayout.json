@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\calcu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E762C54-6B75-40AE-8501-B4F53020578C}|calcu\\calcu.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\calcu\\calcu\\calculadora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E762C54-6B75-40AE-8501-B4F53020578C}|calcu\\calcu.csproj|solutionrelative:calcu\\calculadora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E762C54-6B75-40AE-8501-B4F53020578C}|calcu\\calcu.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\calcu\\calcu\\calculadora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9E762C54-6B75-40AE-8501-B4F53020578C}|calcu\\calcu.csproj|solutionrelative:calcu\\calculadora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E762C54-6B75-40AE-8501-B4F53020578C}|calcu\\calcu.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\calcu\\calcu\\tuproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E762C54-6B75-40AE-8501-B4F53020578C}|calcu\\calcu.csproj|solutionrelative:calcu\\tuproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\calcu\\calcu\\Calculadora.aspx.cs",
+              "RelativeDocumentMoniker": "calcu\\Calculadora.aspx.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\calcu\\calcu\\Calculadora.aspx.cs",
+              "RelativeToolTip": "calcu\\Calculadora.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:53:21.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.aspx",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\calcu\\calcu\\Calculadora.aspx",
+              "RelativeDocumentMoniker": "calcu\\Calculadora.aspx",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\calcu\\calcu\\Calculadora.aspx",
+              "RelativeToolTip": "calcu\\Calculadora.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-07T00:50:50.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TuProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\calcu\\calcu\\TuProyecto.cs",
+              "RelativeDocumentMoniker": "calcu\\TuProyecto.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\calcu\\calcu\\TuProyecto.cs",
+              "RelativeToolTip": "calcu\\TuProyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:48:42.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
